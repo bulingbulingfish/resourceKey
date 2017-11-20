@@ -1,4 +1,4 @@
-## use
+## Features
 - P=Photos
 - V=Videos
 
